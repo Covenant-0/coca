@@ -249,6 +249,25 @@ strong{
     background-color: #ffff;
     padding: 10px 15px;
 }
+.img4, .img5{
+    position: absolute;
+    left: 650px;
+    top: 50px;
+}
+.img6{
+    position: relative;
+    left: 625px;
+    margin-top: 30px;
+}
+.img7{
+    position: absolute;
+    left: 870px;
+    padding-top: 100px;
+}
+.img5{
+    margin-left: 200px;
+    margin-top: 80px;
+}
 .contain {
     max-width: 800px;
     margin: 0 auto;
