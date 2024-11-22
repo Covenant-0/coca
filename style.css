@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -6,7 +5,7 @@
 }
 
 body{
-    font-family: 'Figtree', serif;
+    font-family: Figtree, serif;
 }
 header{
     background-color: #f0f0f0;
@@ -64,7 +63,7 @@ a:hover{
     padding-left: 20px;
 }
 .hero>h1{
-    font-size: 70px;
+    font-size: 80px;
 }
 .hero>.coca{
     font-size: 20px;
@@ -93,6 +92,24 @@ button{
     font-size: 10px;
     padding-top: 40px;
 }
+/* .hero-sub{ 
+    background-image: url('cyborg-hand-finger-background-technology-artificial-intelligence\ 1.png');
+    height: 370px; 
+    width: 62.9%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 320px;
+    left: 500px;
+    margin-bottom:0%;
+    padding-bottom: 0;
+} 
+.img1{
+    position: absolute;
+    height: 350px;
+    bottom: 200px;
+    left: 200px;
+} */
 /*.section1{
     display: flex;
     justify-content: space-between;
